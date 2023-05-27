@@ -37,7 +37,7 @@ class Site:
 
     def get_element_property(self, mode, path, property):
         element = self.find_element(mode, path)
-        return element.value_of_css_property(property)
+        return (element.value_of_css_property(property))
 
     def close(self):
         self.driver.close()

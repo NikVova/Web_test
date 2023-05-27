@@ -4,6 +4,6 @@ browser: firefox
 wait: 3
 login: qwert22
 passwd: 88b64c7d65
-title: Create post with webdriver
-description: Testing the creation of a post in automatic mode.
+title: Create post automatically_001
+description: Post creation and validation via selenium webdriver
 content: Selenium WebDriver - cool.
