@@ -34,18 +34,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Home_work_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Home_work_2" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Разраб\ПВП\Web_Test\Home_work_2" />
       <recent name="D:\Разраб\ПВП\Web_Test\Home_work_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Разраб\ПВП\Web_Test\Seminar_1\2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_3.py">
+  <component name="RunManager" selected="Python tests.Python tests for Home_work_2.test_4">
     <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Web_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,17 +89,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_1.test_step1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Home_work_2.test_4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Web_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_work_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_1.test_step1&quot;" />
+      <option name="_new_target" value="&quot;Home_work_2.test_4&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Home_work_2.test_4" />
         <item itemvalue="Python tests.Python tests in test_3.py" />
         <item itemvalue="Python.conftest" />
         <item itemvalue="Python tests.Python tests in test_1.py" />
         <item itemvalue="Python.test_2" />
-        <item itemvalue="Python tests.Python tests for test_1.test_step1" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684953539491</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add home_work_1">
+      <created>1684954230491</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684954230491</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
