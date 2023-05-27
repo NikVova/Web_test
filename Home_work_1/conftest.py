@@ -8,7 +8,6 @@ name = data['user']
 passwd = data['passwd']
 
 
-
 @pytest.fixture()
 def login():
     r = requests.post('https://test-stand.gb.ru/gateway/login', data={'username': name, 'password': passwd})
